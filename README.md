@@ -62,7 +62,3 @@ Dr. Viktor Graves was once a respected scientist, working on experimental AI for
 ## **Mission Status**  
 - **Primary Goal:** Uncover the truth about Project Echo.  
 - **Secondary Goal:** Stay alive.  
-
----
-
-That’s a solid Markdown character sheet. You can copy-paste this into a `.md` file or a GitHub README. Want me to tweak anything?
